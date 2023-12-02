@@ -1,0 +1,4 @@
+Tooltip_CH = {
+	Tooltip_UpgradeCapacity = "可提升容器容量的升級材料",
+	Tooltip_UpgradeWeightReduction = "可提升容器負重減輕的升級材料",
+}

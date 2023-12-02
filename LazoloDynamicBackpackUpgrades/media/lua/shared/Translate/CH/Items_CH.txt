@@ -1,0 +1,12 @@
+Items_CH = {
+	DisplayName_UpgradeCapacityCloth = "布質包包升級套件",
+	DisplayName_UpgradeCapacityJean = "丹寧包包升級套件",
+	DisplayName_UpgradeCapacityLeather = "皮製包包升級套件",
+	DisplayName_UpgradeCapacityMilitary = "軍用包包升級套件",
+	
+	
+	DisplayName_UpgradeWeightReductionCloth = "布質背帶升級套件",
+	DisplayName_UpgradeWeightReductionJean = "丹寧背帶升級套件",
+	DisplayName_UpgradeWeightReductionLeather = "皮製背帶升級套件",
+	DisplayName_UpgradeWeightReductionMilitary = "軍用背帶升級套件",
+}
