@@ -1,6 +1,6 @@
 UI_CH = {
-	UI_UpgradeCapacity = "已使用以下套件提升容量:",
-	UI_UpgradeWeightReduction = "已使用以下套件提升負重減輕:",
+	UI_UpgradeCapacity = "此套件可提升的容量: ",
+	UI_UpgradeWeightReduction = "此套件可提升的負重減輕: ",
 	UI_UpgradeCapacityCloth = "布質包包升級套件",
 	UI_UpgradeCapacityJean = "丹寧包包升級套件",
 	UI_UpgradeCapacityLeather = "皮製包包升級套件",
