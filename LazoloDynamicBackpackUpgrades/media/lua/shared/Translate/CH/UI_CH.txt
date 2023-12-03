@@ -11,4 +11,8 @@ UI_CH = {
 	UI_UpgradeWeightReductionJean = "丹寧背帶升級套件",
 	UI_UpgradeWeightReductionLeather = "皮製背帶升級套件",
 	UI_UpgradeWeightReductionMilitary = "軍用背帶升級套件",
+
+	UI_LazoloUpgradeSlots = "可升級欄位",
+	UI_LazoloCapacity = "容量",
+	UI_LazoloWeightReduction = "負重減輕",
 }
