@@ -15,4 +15,24 @@ UI_CH = {
 	UI_LazoloUpgradeSlots = "可升級欄位",
 	UI_LazoloCapacity = "容量",
 	UI_LazoloWeightReduction = "負重減輕",
+
+	UI_LazoloAddUpgrade = "添加升級套件",
+	UI_LazoloUpgradeBag = "升級容器",
+	UI_LazoloRemoveUpgrade = "移除升級套件",
+
+	UI_LazoloFixUpgrades = "容器升級設定已變更, 更新升級狀態",
+	UI_LazoloExpectedStats = "(修正後容量: %s, 修正後負重減輕: %s)"
+	UI_LazoloFixManual = "手動修正",
+	UI_LazoloFixManualDesc = "手動更新此容器的升級狀態"
+	UI_LazoloFixOnce = "只有這次",
+	UI_LazoloFixOnceDesc = "將此容器的升級狀態修正並更新",
+	UI_LazoloFixAlways = "自動更新",
+	UI_LazoloFixAlwaysDesc = "標記此容器, 當設定變更時自動將容器的升級狀態修正並更新<br> (只有在玩家道具欄中的容器可以被自動更新)",
+	UI_LazoloFixNever = "永不",
+	UI_LazoloFixNeverDesc = "忽略更新並隱藏此提示<br>要重啟更新, 請移除容器的所有升級套件",
+
+	UI_LazoloTooFullToRemove = "容器太滿, 無法移除升級套件<br>移除套件後的容量將變更為 %s",
+	UI_LazoloRequiresNeedleThread = "需要: 針 與 縫線"
+	UI_LazoloRequiresScissors = "需要: 剪刀"
+	UI_LazoloRequiresSharpItem = "需要: 剪刀 或 適合的刃器"
 }
