@@ -2,8 +2,10 @@ Recipes_CH = {
     Recipe_Make_Cloth_Straps_Upgrade = "製作 布質背帶升級套件",
     Recipe_Make_Denim_Straps_Upgrade = "製作 丹寧背帶升級套件",
     Recipe_Make_Leather_Straps_Upgrade = "製作 皮製背帶升級套件",
+    Recipe_Improvise_Military_Straps_Upgrade = "轉換為 軍用背帶升級套件",
 
     Recipe_Make_Cloth_Bag_Upgrade = "製作 布質包包升級套件",
     Recipe_Make_Denim_Bag_Upgrade = "製作 丹寧包包升級套件",
     Recipe_Make_Leather_Bag_Upgrade = "製作 皮製包包升級套件",
+    Recipe_Improvise_Military_Bag_Upgrade = "轉換為 軍用包包升級套件",
 }
